@@ -13,3 +13,6 @@ __pycache__/
 # Ignorar configuraciones locales de entornos virtuales
 venv/
 env/
+
+# Ignorar carpetas de VSC
+.virtual_documents/
