@@ -1,0 +1,15 @@
+# Ignorar archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos grandes o generados
+*.h5
+*.csv
+*.sqlite3
+
+# Ignorar configuraciones locales de entornos virtuales
+venv/
+env/
